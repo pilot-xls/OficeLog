@@ -1,0 +1,2 @@
+## Pages
+- [Sistema de Registo de Horas - Controla o teu Tempo](/): Sistema simples e eficiente para registar horas de trabalho com dashboard completo e exportação de dados.
